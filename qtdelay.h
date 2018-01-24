@@ -6,7 +6,7 @@
 /**
   * @brief execute a part of the code after the specified delay.
   *
-  * @param time_ delay
+  * @param time_ delay time (ms)
   * @param todo_ function block
   *
   * @code{.cpp}
