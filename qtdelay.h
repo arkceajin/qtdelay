@@ -10,7 +10,7 @@
   * @param todo_ function block
   *
   * @code{.cpp}
-  * DelayTodo(1000, {qDebug()<<"Hello";});
+  * QtDelay(1000, {qDebug()<<"Hello";});
   * @endcode
   */
 #define QtDelay(time_, todo_)\
